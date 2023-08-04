@@ -222,8 +222,14 @@ Inferential statistics is a branch of statistics that involves drawing conclusio
        while the standard deviation controls the spread or dispersion of the data.
    - The total area under the curve is 1, which ensures that all probabilities sum up to 1.
    - It's also known as the Gaussian distribution after mathematician Carl Friedrich Gauss.
+   - Emparical Rule : The empirical rule, or the 68-95-99.7 rule, tells you where most of your values lie in a normal distribution:
+     > - Around 68% of values are within 1 standard deviation from the mean.
+     > - Around 95% of values are within 2 standard deviations from the mean.
+     > - Around 99.7% of values are within 3 standard deviations from the mean.
+     
+  ![ND](https://www.scribbr.de/wp-content/uploads/2023/01/Standard-normal-distribution.webp)
 
-   ![Normal Distribution](https://www.scribbr.com/wp-content/uploads/2023/02/standard-normal-distribution-example.webp)
+   
 
 4. **Standard Normal Distribution (Z-Distribution)**:
 
@@ -231,7 +237,7 @@ Inferential statistics is a branch of statistics that involves drawing conclusio
    - It's often denoted as the Z-distribution, and its values are called Z-scores.
    - Z-scores indicate how many standard deviations a data point is from the mean of the distribution.
    - The standard normal distribution is important in statistics because it allows us to standardize and compare data from different normal distributions.
-
+   ![Normal Distribution](https://www.scribbr.com/wp-content/uploads/2023/02/standard-normal-distribution-example.webp)
 5. **Applications**:
 
    - Normal distribution assumptions are fundamental in many statistical methods and hypothesis tests.
