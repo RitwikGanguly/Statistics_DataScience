@@ -238,6 +238,27 @@ Inferential statistics is a branch of statistics that involves drawing conclusio
    - It's used in quality control, risk assessment, finance, and various scientific fields.
    - Deviations from the normal distribution in data can indicate interesting phenomena or issues in the data collection process.
 
+
+
 ---
+
+## Central Limit Theorem
+
+The Central Limit Theorem (CLT) is a fundamental concept in statistics that plays a crucial role in understanding the behavior of sample means or sums drawn from populations, regardless of the underlying distribution. It has widespread applications in fields ranging from social sciences to natural sciences, finance, engineering, and more. The CLT is a cornerstone in statistical theory, enabling researchers to make important inferences and draw conclusions about populations based on samples.
+
+### Statement of the Central Limit Theorem
+
+The Central Limit Theorem states that when independent random variables are added, their sum or average tends to follow a normal distribution, regardless of the distribution of the original variables, provided that the sample size is sufficiently large. In other words, the sampling distribution of the sample mean becomes approximately normal as the sample size increases, regardless of the shape of the population distribution.
+
+### Key Aspects of the Central Limit Theorem
+
+1. **Independence**: The underlying random variables must be independent of each other. This condition ensures that the sample mean is not influenced by correlations between the variables.
+
+2. **Sample Size**: While there is no strict threshold, a commonly accepted guideline is that the sample size should be sufficiently large (often cited as n ≥ 30). As the sample size increases, the sampling distribution of the sample mean becomes increasingly normal.
+
+3. **Cumulative Effect**: The larger the sample size, the more the effects of individual deviations from the mean tend to cancel out, leading to a smoother, bell-shaped distribution.
+
+---
+
 
 
