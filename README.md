@@ -172,7 +172,50 @@ Inferential statistics is a branch of statistics that involves drawing conclusio
 
    Different types of distribution
 
-2. **Normal Distribution (Gaussian Distribution)**:
+> **Normal Distribution (Gaussian Distribution)**:
+
+>  - Symmetric bell-shaped curve.
+>  - Mean, median, and mode are at the same point.
+
+> **Uniform Distribution**:
+
+>   - All values in a range are equally likely to occur.
+>   - Flat and constant probability density function.
+>   - Rolling a fair die is an example of a discrete uniform distribution.
+
+> **Exponential Distribution**:
+
+>   - Models time between events in a Poisson process (rare events occurring at a constant average rate).
+>   - Probability of waiting a certain time for an event to occur.
+>   - Common in reliability engineering and queuing theory.
+
+> **Poisson Distribution**:
+
+>   - Models the number of events occurring in a fixed interval of time or space.
+>   - Used for rare events with constant average rate.
+>   - Examples include the number of emails received in an hour or the number of phone calls at a call center.
+
+> **Binomial Distribution**:
+
+>   - Describes the number of successes in a fixed number of independent Bernoulli trials.
+>   - Bernoulli trial: An experiment with two possible outcomes, like flipping a coin.
+>   - Examples include the number of heads in multiple coin flips or the pass/fail rate in exams.
+
+> **Log-Normal Distribution**:
+
+>  - Distribution of a random variable whose logarithm follows a normal distribution.
+>  - Often used for variables that are positive and skewed, like stock prices.
+
+> **Chi-Squared Distribution**:
+
+>    - Used in hypothesis testing and confidence interval calculations.
+>    - Derived from summing the squares of independent standard normal random variables.
+
+---
+
+Feel free to use and format this Markdown content as needed!
+
+3. **Normal Distribution (Gaussian Distribution)**:
 
    - The normal distribution is a symmetric bell-shaped curve that's characterized by its mean (average) and standard deviation.
    - Many natural phenomena, such as human height, IQ scores, and measurement errors, tend to follow a normal distribution.
@@ -182,20 +225,20 @@ Inferential statistics is a branch of statistics that involves drawing conclusio
 
    ![Normal Distribution](https://www.scribbr.com/wp-content/uploads/2023/02/standard-normal-distribution-example.webp)
 
-3. **Standard Normal Distribution (Z-Distribution)**:
+4. **Standard Normal Distribution (Z-Distribution)**:
 
    - The standard normal distribution is a specific form of the normal distribution with a mean (μ) of 0 and a standard deviation (σ) of 1.
    - It's often denoted as the Z-distribution, and its values are called Z-scores.
    - Z-scores indicate how many standard deviations a data point is from the mean of the distribution.
    - The standard normal distribution is important in statistics because it allows us to standardize and compare data from different normal distributions.
 
-4. **Characteristics of the Normal Distribution**:
+5. **Characteristics of the Normal Distribution**:
 
    - Symmetry: The curve is symmetric around the mean, with the mean, median, and mode all being at the same point.
    - Empirical Rule (68-95-99.7 Rule): In a normal distribution, about 68% of data falls within one standard deviation from the mean, 95% within two standard deviations, and 99.7% within three standard deviations.
    - Skewness and Kurtosis: The normal distribution has skewness and kurtosis values of 0, indicating no skewness or heavy tails.
 
-5. **Applications**:
+6. **Applications**:
 
    - Normal distribution assumptions are fundamental in many statistical methods and hypothesis tests.
    - It's used in quality control, risk assessment, finance, and various scientific fields.
