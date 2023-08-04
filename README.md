@@ -293,5 +293,7 @@ Where:
 
 Like the SEM, the standard error of the proportion gives an indication of the precision of the sample proportion as an estimator of the population proportion. Larger sample sizes and proportions near 0.5 tend to result in smaller standard errors.
 
+---
 
+## Sampling Techniques
 
