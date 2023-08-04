@@ -258,15 +258,14 @@ The Central Limit Theorem states that when independent random variables are adde
 
 3. **Cumulative Effect**: The larger the sample size, the more the effects of individual deviations from the mean tend to cancel out, leading to a smoother, bell-shaped distribution.
 
----
-
-Certainly! Here's an explanation of standard error in inferential statistics, presented in Markdown format:
+![CLT](https://miro.medium.com/v2/resize:fit:640/format:webp/1*DfBsmbGDS72leAVaV37uKg.png)
 
 ---
+
 
 ## Standard Error in Inferential Statistics
 
-In inferential statistics, the standard error is a critical concept that quantifies the variability or uncertainty associated with sample statistics, particularly the sample mean or sample proportion. It serves as a measure of how much the sample statistic is likely to vary from the true population parameter.
+In inferential statistics, the standard error is a critical concept that quantifies the variability or uncertainty associated with sample statistics, particularly the sample mean or sample proportion. It serves as a measure of how much the sample statistic is likely to vary from the true/actual population parameter.
 
 ### Standard Error of the Mean
 
