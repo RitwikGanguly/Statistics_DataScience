@@ -260,5 +260,39 @@ The Central Limit Theorem states that when independent random variables are adde
 
 ---
 
+Certainly! Here's an explanation of standard error in inferential statistics, presented in Markdown format:
+
+---
+
+## Standard Error in Inferential Statistics
+
+In inferential statistics, the standard error is a critical concept that quantifies the variability or uncertainty associated with sample statistics, particularly the sample mean or sample proportion. It serves as a measure of how much the sample statistic is likely to vary from the true population parameter.
+
+### Standard Error of the Mean
+
+The standard error of the mean (SEM) measures the average amount by which sample means would differ from the true population mean if we were to repeatedly take new samples from the same population. It takes into account both the variability of individual data points and the sample size. The formula for SEM is:
+
+**SEM = σ / √n**
+
+Where:
+- σ is the population standard deviation.
+- n is the sample size.
+
+The SEM provides valuable insights into how well the sample mean estimates the true population mean. Larger sample sizes generally lead to smaller standard errors, indicating more precise estimates.
+
+### Standard Error of the Proportion
+
+For categorical data and proportions, the standard error of the proportion estimates how much the sample proportion deviates from the true population proportion. It's particularly useful when dealing with binary outcomes (e.g., success/failure).
+
+The formula for the standard error of the proportion is:
+
+**SE(p) = √[p * (1 - p) / n]**
+
+Where:
+- p is the sample proportion.
+- n is the sample size.
+
+Like the SEM, the standard error of the proportion gives an indication of the precision of the sample proportion as an estimator of the population proportion. Larger sample sizes and proportions near 0.5 tend to result in smaller standard errors.
+
 
 
