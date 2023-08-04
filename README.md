@@ -163,3 +163,44 @@ Inferential statistics is a branch of statistics that involves drawing conclusio
 
 ---
 
+## Key Points
+
+1. **Distribution**:
+
+   - A distribution represents the way data is spread or organized. It illustrates the frequencies or probabilities of different values in a dataset.
+   - Distributions can be visualized using histograms, frequency polygons, or probability density functions.
+
+   Different types of distribution
+
+2. **Normal Distribution (Gaussian Distribution)**:
+
+   - The normal distribution is a symmetric bell-shaped curve that's characterized by its mean (average) and standard deviation.
+   - Many natural phenomena, such as human height, IQ scores, and measurement errors, tend to follow a normal distribution.
+   - It's defined by two parameters: mean (μ) and standard deviation (σ).
+   - The total area under the curve is 1, which ensures that all probabilities sum up to 1.
+   - It's also known as the Gaussian distribution after mathematician Carl Friedrich Gauss.
+
+   ![Normal Distribution](https://www.scribbr.com/wp-content/uploads/2023/02/standard-normal-distribution-example.webp)
+
+3. **Standard Normal Distribution (Z-Distribution)**:
+
+   - The standard normal distribution is a specific form of the normal distribution with a mean (μ) of 0 and a standard deviation (σ) of 1.
+   - It's often denoted as the Z-distribution, and its values are called Z-scores.
+   - Z-scores indicate how many standard deviations a data point is from the mean of the distribution.
+   - The standard normal distribution is important in statistics because it allows us to standardize and compare data from different normal distributions.
+
+4. **Characteristics of the Normal Distribution**:
+
+   - Symmetry: The curve is symmetric around the mean, with the mean, median, and mode all being at the same point.
+   - Empirical Rule (68-95-99.7 Rule): In a normal distribution, about 68% of data falls within one standard deviation from the mean, 95% within two standard deviations, and 99.7% within three standard deviations.
+   - Skewness and Kurtosis: The normal distribution has skewness and kurtosis values of 0, indicating no skewness or heavy tails.
+
+5. **Applications**:
+
+   - Normal distribution assumptions are fundamental in many statistical methods and hypothesis tests.
+   - It's used in quality control, risk assessment, finance, and various scientific fields.
+   - Deviations from the normal distribution in data can indicate interesting phenomena or issues in the data collection process.
+
+---
+
+Feel free to use and format this Markdown content as needed!
