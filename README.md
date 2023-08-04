@@ -103,12 +103,6 @@ Some Importants keywords of descriptive statistics need to be known...
 ---
 # Inferential Statistics
 
-Certainly! Here's an explanation of inferential statistics in Markdown format, along with a comparison to descriptive statistics:
-
----
-
-## Inferential Statistics
-
 Inferential statistics is a branch of statistics that involves drawing conclusions or making inferences about a population based on a sample of data. Unlike descriptive statistics, which focus on summarizing and describing the characteristics of a dataset, inferential statistics aim to generalize and make predictions about larger populations using sample data. Inferential statistics plays a crucial role in decision-making, hypothesis testing, and making predictions based on limited data. It's an essential tool for researchers and analysts aiming to make broader conclusions from their observations.
 
 ### Key Aspects of Inferential Statistics
