@@ -81,20 +81,22 @@ Some Importants keywords of descriptive statistics need to be known...
    Formula: CV = (Standard Deviation / Mean) * 100
 
    Example: If the mean is 50 and the standard deviation is 10, CV = (10 / 50) * 100 = 20%.
+   
+   Higher CV2 values indicate greater variability relative to the mean, while lower values indicate more uniform data.
 
-7. **Covariance**: Covariance measures the degree to which two variables change together. A positive covariance indicates that the variables tend to increase or decrease together, while a negative covariance indicates they move in opposite directions.
+8. **Covariance**: Covariance measures the degree to which two variables change together. A positive covariance indicates that the variables tend to increase or decrease together, while a negative covariance indicates they move in opposite directions.
 
    Formula: Cov(X,Y) = Σ((xi - X̄) * (yi - Ȳ)) / (N - 1)
 
    Example: Consider data pairs X: [2, 3, 5, 7] and Y: [8, 9, 10, 12]. Mean of X (X̄) = 4.25, Mean of Y (Ȳ) = 9.75. Covariance = ((2-4.25) * (8-9.75) + (3-4.25) * (9-9.75) + (5-4.25) * (10-9.75) + (7-4.25) * (12-9.75)) / (4-1) = 4.25.
 
-8. **Correlation**: Correlation is a standardized measure of the strength and direction of the linear relationship between two variables. It ranges from -1 to 1.
+9. **Correlation**: Correlation is a standardized measure of the strength and direction of the linear relationship between two variables. It ranges from -1 to 1.
 
    Formula: Correlation (ρ) = Cov(X,Y) / (σX * σY)
 
    Example: Using the previous data, if σX = 1.87 and σY = 1.96, Correlation = 4.25 / (1.87 * 1.96) = 1.14.
 
-9. **Correlation Coefficient**: The correlation coefficient is a numerical value that quantifies the correlation between two variables. It's calculated using specific formulas and ranges from -1 to 1, just like correlation.
+10. **Correlation Coefficient**: The correlation coefficient is a numerical value that quantifies the correlation between two variables. It's calculated using specific formulas and ranges from -1 to 1, just like correlation.
 
    Formula: Correlation Coefficient (r) = Cov(X,Y) / (√(Var(X) * Var(Y)))
 
